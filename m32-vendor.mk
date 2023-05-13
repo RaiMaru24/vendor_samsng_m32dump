@@ -2214,7 +2214,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     ImsSettings \
-    ImsSettings.apk \
     GoogleTetheringResOverlay \
     InProcessTetheringResOverlay \
     TetheringResOverlay \

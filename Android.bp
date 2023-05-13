@@ -15,15 +15,6 @@ android_app_import {
 	},
 }
 
-android_app_import {
-	name: "ImsSettings.apk",
-	owner: "samsung",
-	apk: "proprietary/app/ImsSettings/ImsSettings.apk.prof",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-}
 
 android_app_import {
 	name: "GoogleTetheringResOverlay",
